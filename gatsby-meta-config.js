@@ -80,12 +80,10 @@ module.exports = {
       {
         title: 'Dream Network 꿈 아카이빙 시스템 개발',
         description:
-          '서울문화재단 후원으로 꿈을 기록하고 저장하여 같은 키워드로 서로의 꿈을 이어주는 Dream Network.',
+          '꿈을 기록하고 저장하여 같은 키워드로 서로의 꿈을 이어주는 Dream Network. koldsleep 주관, 서울문화재단 후원으로 개발하였으며 이인환각연쇄고리의 제 1차 고리의 소재로 활용되었다.',
         techStack: ['Django', 'Mecab', 'Ubuntu', 'gunicorn'],
         thumbnailUrl: 'blog.png',
         links: {
-          post: '/django-web-framework-intro',
-          github: 'https://github.com/maiorem/koldsleep',
           demo: 'http://www.koldsleep.com',
         },
       },
