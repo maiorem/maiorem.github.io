@@ -95,7 +95,6 @@ module.exports = {
         thumbnailUrl: 'mangchi.PNG',
         links: {
           github: 'https://github.com/maiorem/Mangchi_Final',
-          github: 'https://github.com/maiorem/Mangchi-Final',
         },
       },
       {
