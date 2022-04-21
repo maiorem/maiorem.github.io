@@ -94,7 +94,7 @@ module.exports = {
         description:
           '당근마켓을 벤치마킹한 프로젝트로, 사용자가 입력한 주소의 주변에서 사용자가 필요로 하는 물건을 대여해 줄 수 있는 사람을 매칭해주는 서비스. 6명이 한 조로 MSA 방식으로 구현하였다.',
         techStack: ['Spring', 'AWS', 'MSA', 'Restful'],
-        thumbnailUrl: 'blog.png',
+        thumbnailUrl: 'mangchi.PNG',
         links: {
           github: 'https://github.com/maiorem/Mangchi_Final',
           github: 'https://github.com/maiorem/Mangchi-Final',
@@ -104,7 +104,6 @@ module.exports = {
         title: 'Sketch-to-Photo',
         description: '스케치 혹은 밑그림을 업로드하면 사진으로 바꾸어주는 인공지능 웹 서비스',
         techStack: ['Flask', 'TensorFlow', 'Pix2Pix', 'OpenCv'],
-        thumbnailUrl: 'blog.png',
         links: {
           github: 'https://github.com/maiorem/sketch_to_photo',
         },
