@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `django-web-framework-intro`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -43,12 +43,12 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2022.04 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2021.10 ~',
+        activity: 'Dream Network 개발 및 운영',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '/django-web-framework-intro',
+          github: 'https://github.com/maiorem/koldsleep',
+          demo: 'https://www.koldsleep.com',
         },
       },
     ],
@@ -72,15 +72,15 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        title: '개발 블로그 테마 개발',
+        title: 'Dream Network 꿈 아카이빙 시스템 개발',
         description:
-          '개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.',
-        techStack: ['gatsby', 'react'],
+          '서울문화재단 후원으로 꿈을 기록하고 저장하여 같은 키워드로 서로의 꿈을 이어주는 Dream Network를 개발하였다.',
+        techStack: ['Django', 'Mecab'],
         thumbnailUrl: 'blog.png',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '/django-web-framework-intro',
+          github: 'https://github.com/maiorem/koldsleep',
+          demo: 'https://www.koldsleep.com',
         },
       },
     ],
