@@ -80,13 +80,33 @@ module.exports = {
       {
         title: 'Dream Network 꿈 아카이빙 시스템 개발',
         description:
-          '서울문화재단 후원으로 꿈을 기록하고 저장하여 같은 키워드로 서로의 꿈을 이어주는 Dream Network를 개발하였다.',
-        techStack: ['Django', 'Mecab'],
+          '서울문화재단 후원으로 꿈을 기록하고 저장하여 같은 키워드로 서로의 꿈을 이어주는 Dream Network.',
+        techStack: ['Django', 'Mecab', 'Ubuntu', 'gunicorn'],
         thumbnailUrl: 'blog.png',
         links: {
           post: '/django-web-framework-intro',
           github: 'https://github.com/maiorem/koldsleep',
-          demo: 'https://www.koldsleep.com',
+          demo: 'http://www.koldsleep.com',
+        },
+      },
+      {
+        title: '우리 동네 대여서비스, 망치',
+        description:
+          '당근마켓을 벤치마킹한 프로젝트로, 사용자가 입력한 주소의 주변에서 사용자가 필요로 하는 물건을 대여해 줄 수 있는 사람을 매칭해주는 서비스. 6명이 한 조로 MSA 방식으로 구현하였다.',
+        techStack: ['Spring', 'AWS', 'MSA', 'Restful'],
+        thumbnailUrl: 'blog.png',
+        links: {
+          github: 'https://github.com/maiorem/Mangchi_Final',
+          github: 'https://github.com/maiorem/Mangchi-Final',
+        },
+      },
+      {
+        title: 'Sketch-to-Photo',
+        description: '스케치 혹은 밑그림을 업로드하면 사진으로 바꾸어주는 인공지능 웹 서비스',
+        techStack: ['Flask', 'TensorFlow', 'Pix2Pix', 'OpenCv'],
+        thumbnailUrl: 'blog.png',
+        links: {
+          github: 'https://github.com/maiorem/sketch_to_photo',
         },
       },
     ],
