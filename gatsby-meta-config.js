@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `개발자`,
       description: ['도전이 즐거운', '함께 일하는', '숲을 보는', '사람을 중심한'],
-      thumbnail: 'itsme.png', // Path to the image in the 'asset' folder
+      thumbnail: 'itsme.jpg', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/maiorem`, // `https://github.com/maiorem`,
