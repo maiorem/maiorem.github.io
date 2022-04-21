@@ -14,8 +14,8 @@ module.exports = {
     name: `홍세영`,
     bio: {
       role: `개발자`,
-      description: ['글쓰는', '공부하는', '사람에 가치를 두는', '즐거운'],
-      thumbnail: 'sample.png', // Path to the image in the 'asset' folder
+      description: ['도전이 즐거운', '함께 일하는', '숲을 보는', '사람을 중심한'],
+      thumbnail: 'itsme.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/maiorem`, // `https://github.com/maiorem`,
@@ -43,13 +43,19 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.10 ~',
-        activity: 'Dream Network 개발 및 운영',
-        links: {
-          post: '/django-web-framework-intro',
-          github: 'https://github.com/maiorem/koldsleep',
-          demo: 'https://www.koldsleep.com',
-        },
+        date: '2021.01 ~ 2021.05',
+        activity: 'LG CNS Smart SMA 빅데이터 분석 및 분석 자동화 시스템 개발',
+        links: {},
+      },
+      {
+        date: '2021.06 ~ ',
+        activity: 'LG Chem 챗봇 화면 기능 개발 및 운영',
+        links: {},
+      },
+      {
+        date: '2021.06 ~ ',
+        activity: '뉴스킨코리아 CS챗봇 발화 이벤트 인텐트 개발 및 운영',
+        links: {},
       },
     ],
 
