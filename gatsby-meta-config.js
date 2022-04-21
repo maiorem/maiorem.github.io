@@ -2,7 +2,7 @@ module.exports = {
   title: `Ἥφαιστος`,
   description: `코드 짓는 타자기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https:/maiorem.github.io`,
+  siteUrl: `https://maiorem.github.io/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
