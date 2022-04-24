@@ -1,6 +1,6 @@
 ---
 emoji: 💮
-title: [Dream Network] 0. 드림네트워크 프로젝트를 시작하며
+title: '[Dream Network] 0. 드림네트워크 프로젝트를 시작하며'
 date: '2021-12-02 15:00:00'
 author: 꼬스쨔
 tags: django web koldsleep aws
