@@ -15,9 +15,11 @@ npm run deploy 를 실행하는데 어제까지만 해도 잘 되던 배포가 �
 
 우선 검색해서 가장 먼저 나오는 방식을 Visual Studio Code 의 PowerShell 에서 실행하려 시도했다.
 
-$ npm cache clean --force  
-$ rm -rf node_modules package-lock.json  
+```console
+$ npm cache clean --force
+$ rm -rf node_modules package-lock.json
 $ npm install
+```
 
 그런데 rf를 visual studio code가 읽지 못해 또 "매개 변수 이름 'rf'과(와) 일치하는 매개 변수를 찾을 수 없습니다." 오류메시지를 뱉는다.
 
@@ -33,7 +35,9 @@ vsc에서 bash를 여는 방법은
 
 이건 파일이 읽기전용이거나 잠겨서 생긴 에러로
 
+```console
 $ npm install --force
+```
 
 를 통해 강제로 설치를 해 주면 해결 된다.
 이제 캐시를 지우고 npm 을 새롭게 설치하였으니 deploy를 다시 시도해 보자....
