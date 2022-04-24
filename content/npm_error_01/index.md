@@ -12,7 +12,8 @@ categories: 블로그 error
 <hr />
 npm run deploy 를 실행하는데 어제까지만 해도 잘 되던 배포가 오늘 갑자기 에러를 뱉는다.
 
-메시지는 npm ERR! code ELIFECYCLE  
+![error : ELIFECYCLE](./error1.png)
+
 찾아보니 npm을 사용하는 vue react angular 등의 프레임워크를 빌드할 때 공통적으로 발생 한다고 한다.
 
 우선 검색해서 가장 먼저 나오는 방식을 Visual Studio Code 의 PowerShell 에서 실행하려 시도했다.
