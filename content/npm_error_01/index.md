@@ -1,6 +1,6 @@
 ---
 emoji: 😡
-title: [Error] npm ERR! code ELIFECYCLE 
+title: '[Error] npm ERR! code ELIFECYCLE'
 date: '2022-04-24 15:00:00'
 author: 꼬스쨔
 tags: npm web error
@@ -37,3 +37,7 @@ $ npm install --force
 
 를 통해 강제로 설치를 해 주면 해결 된다.
 이제 캐시를 지우고 npm 을 새롭게 설치하였으니 deploy를 다시 시도해 보자....
+
+똑같은 에러가 계속 발생해서 뭐가 문제인가 했는데,  
+마크다운에서 대괄호를 쓰면 에러가 난다는 사실을 발견했다.... 제목에 대괄호를 붙인게 문제가 된 것.  
+대괄호를 포함한 제목에 따옴표를 붙여 '[Dream Network] 0. 드림네트워크 프로젝트를 시작하며' 로 고쳐 보았다.
