@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: `maiorem.github.io/dreamNetwork1`, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `maiorem.github.io/dreamNetwork_01`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
