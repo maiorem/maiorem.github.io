@@ -4,7 +4,7 @@ title: '[Error] npm ERR! code ELIFECYCLE'
 date: '2022-04-24 15:00:00'
 author: 꼬스쨔
 tags: npm web error
-categories: 블로그 error
+categories: 삽질일기
 ---
 
 npm run deploy 를 실행하는데 어제까지만 해도 잘 되던 배포가 오늘 갑자기 에러를 뱉는다.

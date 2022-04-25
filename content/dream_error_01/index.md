@@ -3,8 +3,8 @@ emoji: 😡
 title: '[Error] AWS Error : Out of memory'
 date: '2022-03-03 15:00:00'
 author: 꼬스쨔
-tags: npm web error
-categories: 블로그 error
+tags: aws django gunicorn nginx web error
+categories: 삽질일기
 ---
 
 ## 0. 문제의 발견
