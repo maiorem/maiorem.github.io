@@ -1,6 +1,6 @@
 ---
 emoji: 😡
-title: '[Error] out of memory'
+title: '[Error] AWS Error : Out of memory'
 date: '2022-03-03 15:00:00'
 author: 꼬스쨔
 tags: npm web error
