@@ -83,6 +83,17 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
+        title: 'kold sleep',
+        description:
+          '공연 전시 예술인 단체 콜드슬립의 프로젝트 사이트. 서브아웃풋에 이전 프로젝트인 드림네트워크가 있다. 드림네트워크를 제외한 메인 페이지는 Vue를 사용하여 구현하였다.',
+        techStack: ['Django', 'Vue'],
+        thumbnailUrl: 'main.png',
+        links: {
+          github: 'https://github.com/maiorem/koldsleep_web',
+          demo: 'http://www.koldsleep.com',
+        },
+      },
+      {
         title: 'Dream Network 꿈 아카이빙 시스템 개발',
         description:
           '꿈을 기록하고 저장하여 같은 키워드로 서로의 꿈을 이어주는 Dream Network. koldsleep 주관, 서울문화재단 후원으로 개발하였으며 이인환각연쇄고리의 제 1차 고리의 소재로 활용되었다.',
