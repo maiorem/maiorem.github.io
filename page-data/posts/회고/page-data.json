@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/회고",
+    "result": {"pageContext":{"currentCategory":"회고","categories":["All","회고","삽질일기","project"],"edges":[{"node":{"id":"9cb6721f-9eed-5cd4-a2ca-d746bd9b8a58","excerpt":"경험한 사실 Django와 VueJs로 완성한 사이트를 aws에서 할당받은 클라우드에 업로드 함 gunicorn과 nginx 의 status가 모두 acitve로 파란불을 띄웠으나 퍼블릭 ip로 접속이 안됨 nginx.conf와 gunicorn.service, nginx 서버 설정을 고쳐 위를 해결했으나 static이 로드가 안됨 느낀 점 Django와 aws를 연동하는 건 이전 프로젝트에서도 겪었기 때문에 나름 삽질에 대한 방지책을 세워 놓았다고 생각했는데 완전히 착각이었다. 그 때 겪지 못한 오류 투성이었고 이미 겪은 것에 대한 기록 부족으로 또 겪고 넘어간 사실도 많았다. 아직 리눅스는 인터넷 검색을 통해 무언가가 안되면 복사에서 가져다 붙이는 것에 급급한데 확실히 흐름을 정리해 두는 것이 좋을 것 같다. 배운 점 했던 것을 또 짚어 가는 과정을 다시 한 번 기록해 보는 것도 중요한 것 같다! 기록의 중요성을 또 느꼈다. 아주 간단한 페이지로 보이는 것도 너무 오래 걸린다. …","fields":{"slug":"/daily_retrospect_220528/"},"frontmatter":{"categories":"회고","title":"[회고] 2022.05.28.토","date":"May 28, 2022"}},"next":{"fields":{"slug":"/npm_error_01/"}},"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
