@@ -101,6 +101,7 @@ module.exports = {
         thumbnailUrl: 'blog.png',
         links: {
           demo: 'http://www.koldsleep.com/dreamnetwork',
+          post: 'https://maiorem.github.io/dreamNetwork_01/',
         },
       },
       {

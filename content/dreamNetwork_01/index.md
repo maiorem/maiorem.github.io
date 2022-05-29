@@ -32,7 +32,7 @@ categories: project
 
 ## 🔥 Project Site
 
-http://koldsleep.com
+http://koldsleep.com/dreamnetwork
 
 ​![Dream Network](./blog.png)
 
