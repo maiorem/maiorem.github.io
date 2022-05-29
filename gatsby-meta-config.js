@@ -89,7 +89,7 @@ module.exports = {
         techStack: ['Django', 'Vue'],
         thumbnailUrl: 'main.png',
         links: {
-          github: 'https://github.com/maiorem/koldsleep_web',
+          github: 'https://github.com/maiorem/koldsleep',
           demo: 'http://www.koldsleep.com',
         },
       },
@@ -100,7 +100,7 @@ module.exports = {
         techStack: ['Django', 'Mecab', 'Ubuntu', 'gunicorn'],
         thumbnailUrl: 'blog.png',
         links: {
-          demo: 'http://www.koldsleep.com',
+          demo: 'http://www.koldsleep.com/dreamnetwork',
         },
       },
       {
