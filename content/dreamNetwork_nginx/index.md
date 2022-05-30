@@ -1,7 +1,7 @@
 ---
 emoji: 💮
 title: '[Dream Network] 3. Django 프로젝트를 AWS EC2와 연동하기 (3)'
-date: '2021-12-05 15:00:00'
+date: '2021-12-30 15:00:00'
 author: 꼬스쨔
 tags: django web koldsleep aws
 categories: project
