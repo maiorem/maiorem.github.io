@@ -1,6 +1,6 @@
 ---
 emoji: 💮
-title: '[Dream Network] 3. Django 프로젝트를 AWS EC2와 연동하기 (3)'
+title: '[Dream Network] 4.Django 프로젝트를 AWS EC2로 배포하기 (4) Nginx 설정'
 date: '2021-12-30 15:00:00'
 author: 꼬스쨔
 tags: django web koldsleep aws
